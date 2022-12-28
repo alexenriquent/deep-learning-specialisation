@@ -5,6 +5,5 @@ The Deep Learning Specialisation by Andrew Ng, Kian Katanforoosh and Younes Bens
 This repository contains hands-on projects from the Deep Learning Specialisation, including my work completed as part of the following courses:
 * Neural Networks and Deep Learning
 * Improving Deep Neural Networks: Hyperparameter Tuning, Regularisation and Optimisation
-* Structuring Machine Learning Projects
 * Convolutional Neural Networks
 * Sequence Models
